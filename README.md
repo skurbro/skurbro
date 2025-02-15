@@ -1,5 +1,11 @@
 # 💫 About Me:
-Web3 Developer | Cybersecurity Student<br>Developing software for Web3 projects, researching blockchain technology and cybersecurity.<br>Participate in Web3 networks, deploy and manage nodes, test new solutions.
+🚀 Web3 Developer | Cybersecurity Enthusiast<br>
+🔹 Developing software for Web3 projects, researching blockchain security and network protection<br>
+🔹 Participating in Web3 networks, deploying and managing nodes, testing new solutions.<br>
+🔹 Exploring OSINT, penetration testing, traffic analysis with tools like Wireshark, Metasploit, Nmap.<br>
+🔹 Automating workflows to optimize security and development processes.
+
+**Tech Stack:** C++, Python, Solidity, TypeScript, Kubernetes, Nginx, Next.js, and more.
 
 
 ## 🌐 Socials:
