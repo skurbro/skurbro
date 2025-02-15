@@ -1,12 +1,10 @@
 # 💫 About Me:
 🚀 Web3 Developer | Cybersecurity Enthusiast<br>
+
 🔹 Developing software for Web3 projects, researching blockchain security and network protection<br>
 🔹 Participating in Web3 networks, deploying and managing nodes, testing new solutions.<br>
-🔹 Exploring OSINT, penetration testing, traffic analysis with tools like Wireshark, Metasploit, Nmap.<br>
+🔹 Exploring OSINT, penetration testing, traffic analysis.<br>
 🔹 Automating workflows to optimize security and development processes.
-
-**Tech Stack:** C++, Python, Solidity, TypeScript, Kubernetes, Nginx, Next.js, and more.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/skurbro23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skurbro) [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/agnostic_dao) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/skurbro)  
