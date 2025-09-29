@@ -2,10 +2,6 @@
 🚀 Web3 Developer | Cybersecurity Student<br>
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skurbro) [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/agnostic_dao) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/skurbro)  
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
